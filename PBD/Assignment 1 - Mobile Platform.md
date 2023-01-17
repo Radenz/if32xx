@@ -10,9 +10,8 @@ Application software running on application framework including Java-compatible 
 Android Runtime (ART) as runtime environtment
 
 ### Arch
-![[android-stack.png]]
-![[android-arch-diagram.png]]
-Hardware arch: ARM, x86, x86-64
+![Android Stack](./images/android-stack.png)
+![Android Architecture](android-arch-diagram.png)
 
 ### IDE
 Android Studio
@@ -34,9 +33,9 @@ Smart card, PC, TV remote, camera
 JDK, SDK, JRE, JVM, etc.
 
 ### Arch
-![[java-arch.png]]
+![Java Architecture](java-arch.png)
 JVM Arch:
-![[jvm-arch.png]]
+![JVM Architecture](jvm-arch.png)
 
 ### IDE
 IntelliJ IDEA, Eclipse IDE, Visual Studio Code, etc.
@@ -90,7 +89,7 @@ Microsoft's AutoPC, Pocket PC 2000, Pocket PC 2002, Windows Mobile 2003, Wi
 .NET Framework
 
 ### Arch
-![[windows-ce-arch.png]]
+![Windows CE Architecture](windows-ce-arch.png)
 
 ### IDE
 Visual Studio
@@ -109,7 +108,7 @@ Smartphone
 ### Software
 
 ### Arch
-![[symbian-arch.png]]
+![Symbian Architecture](symbian-arch.png)
 
 ### IDE
 CodeWarrior, Carbide.c++, Qt Creator
