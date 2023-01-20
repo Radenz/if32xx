@@ -1,0 +1,120 @@
+{
+  "main": {
+    "id": "9ebed68ada3cd16a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a10523f41f53bc2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_DRAFT/s8.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0c41d50d7636ec4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "76f46417c3f3db52",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "34d3db86497f7b51",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4303da4da753dbc8",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "8b228fe36a4911da",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "2b49dd131291bdfe",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2342e040d89fc517",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "_DRAFT/s8.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ba0b4b74fb3c7b04",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "_DRAFT/s8.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0abd813bf1791b91",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "_DRAFT/s8.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "5a10523f41f53bc2",
+  "lastOpenFiles": [
+    "PBD/Assignment 1 - Mobile Platform.md"
+  ]
+}
